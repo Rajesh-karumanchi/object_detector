@@ -1,13 +1,5 @@
-# Ungraded Lab - Deploying a Deep Learning model
+# Deploying a Deep Learning model
  
-## Introduction
-Welcome to the first week of Machine Learning Engineering for Production Course 1. During this ungraded lab you will go through the process of deploying an already trained Deep Learning model. To do so, we will take advantage of the user-friendly library fastAPI that provides a nice REST API framework.
- 
-This tutorial is specifically designed to run locally on your machine. This can be done via 2 methods:  using `Python Virtual Environments` or using `Docker`. 
- 
-Both approaches should yield the same result. If you already have a conda installation available on your computer, we recommend  that you use the virtual environment method. If this is not the case, choose the Docker method as it is easier to set up.
- 
-As a general note, the commands in this tutorial are meant to be run within a terminal. To begin you need to **clone this repo in your local filesystem and `cd` to the week1-ungraded-lab directory**.
 
 To clone the repo use this command:
 ```bash
