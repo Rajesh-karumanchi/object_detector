@@ -1,5 +1,6 @@
 # Deploying a Deep Learning model
  
+You can use this repo to understand how to deploy a simple YOLO object detection model using fast API
 
 To clone the repo use this command:
 ```bash
